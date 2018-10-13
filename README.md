@@ -6,7 +6,7 @@ Simple flashcard app. You see question and after tapping on card you will see an
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src=https://gph.is/2A8Os6J width=200><br>
+<img src=https://media.giphy.com/media/4QFAMOjO8YyejP9KzD/giphy.gif width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
