@@ -9,11 +9,8 @@ import UIKit
 
 class CreationViewController: UIViewController {
     
-    
-   
     @IBOutlet weak var questionTextField: UITextField!
     @IBOutlet weak var answerTextField: UITextField!
-    
     
     var flashcardsController: ViewController!
 
